@@ -1,4 +1,5 @@
 <?php
+//ADD COMMENTS HERE
 include "config.php";
 
 
